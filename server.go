@@ -1,8 +1,11 @@
-package k_scaffold
+package main
 
 import "net/http"
 import "github.com/gin-gonic/gin"
 
+func main() {
+	RegisterRouter()
+}
 func RegisterRouter() {
 	// 1.创建路由
 	r := gin.Default()
