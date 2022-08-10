@@ -1,4 +1,4 @@
-module k_scaffold
+module  github.com/vwkai/k_scaffold
 
 go 1.17
 
