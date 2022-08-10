@@ -1,4 +1,4 @@
-module k-scaffold
+module k_scaffold
 
 go 1.17
 
